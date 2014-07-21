@@ -1,0 +1,10 @@
+C:\Users\User\documents\visual studio 2010\Projects\Dishs4TheDay\DishSelection\bin\Debug\DishSelection.dll
+C:\Users\User\documents\visual studio 2010\Projects\Dishs4TheDay\DishSelection\bin\Debug\DishSelection.pdb
+C:\Users\User\documents\visual studio 2010\Projects\Dishs4TheDay\DishSelection\obj\Debug\DishSelection.dll
+C:\Users\User\documents\visual studio 2010\Projects\Dishs4TheDay\DishSelection\obj\Debug\DishSelection.pdb
+C:\Users\User\documents\visual studio 2010\Projects\Dishs4TheDay\DishSelection\obj\Debug\DishSelection.csprojResolveAssemblyReference.cache
+C:\Training\Dishs4TheDay\DishSelection\bin\Debug\DishSelection.dll
+C:\Training\Dishs4TheDay\DishSelection\bin\Debug\DishSelection.pdb
+C:\Training\Dishs4TheDay\DishSelection\obj\Debug\DishSelection.csprojResolveAssemblyReference.cache
+C:\Training\Dishs4TheDay\DishSelection\obj\Debug\DishSelection.dll
+C:\Training\Dishs4TheDay\DishSelection\obj\Debug\DishSelection.pdb

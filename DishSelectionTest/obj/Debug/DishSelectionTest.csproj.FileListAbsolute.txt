@@ -1,0 +1,16 @@
+C:\Users\User\documents\visual studio 2010\Projects\Dishs4TheDay\DishSelectionTest\bin\Debug\DishSelectionTest.dll
+C:\Users\User\documents\visual studio 2010\Projects\Dishs4TheDay\DishSelectionTest\bin\Debug\DishSelectionTest.pdb
+C:\Users\User\documents\visual studio 2010\Projects\Dishs4TheDay\DishSelectionTest\bin\Debug\DishSelection.dll
+C:\Users\User\documents\visual studio 2010\Projects\Dishs4TheDay\DishSelectionTest\bin\Debug\nunit.framework.dll
+C:\Users\User\documents\visual studio 2010\Projects\Dishs4TheDay\DishSelectionTest\bin\Debug\DishSelection.pdb
+C:\Users\User\documents\visual studio 2010\Projects\Dishs4TheDay\DishSelectionTest\obj\Debug\DishSelectionTest.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2010\Projects\Dishs4TheDay\DishSelectionTest\obj\Debug\DishSelectionTest.dll
+C:\Users\User\documents\visual studio 2010\Projects\Dishs4TheDay\DishSelectionTest\obj\Debug\DishSelectionTest.pdb
+C:\Training\Dishs4TheDay\DishSelectionTest\bin\Debug\DishSelectionTest.dll
+C:\Training\Dishs4TheDay\DishSelectionTest\bin\Debug\DishSelectionTest.pdb
+C:\Training\Dishs4TheDay\DishSelectionTest\bin\Debug\DishSelection.dll
+C:\Training\Dishs4TheDay\DishSelectionTest\bin\Debug\nunit.framework.dll
+C:\Training\Dishs4TheDay\DishSelectionTest\bin\Debug\DishSelection.pdb
+C:\Training\Dishs4TheDay\DishSelectionTest\obj\Debug\DishSelectionTest.csprojResolveAssemblyReference.cache
+C:\Training\Dishs4TheDay\DishSelectionTest\obj\Debug\DishSelectionTest.dll
+C:\Training\Dishs4TheDay\DishSelectionTest\obj\Debug\DishSelectionTest.pdb

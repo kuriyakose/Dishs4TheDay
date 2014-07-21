@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Training\Dishs4TheDay\DishSelectionTest\bin\Release\DishSelectionTest.dll" total="19" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2014-07-21" time="14:36:13">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.4247" os-version="Microsoft Windows NT 6.0.6002 Service Pack 2" platform="Win32NT" cwd="C:\Training\Dishs4TheDay\Dishs4TheDay" machine-name="USER-PC" user="User" user-domain="USER-PC" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Training\Dishs4TheDay\DishSelectionTest\bin\Release\DishSelectionTest.dll" executed="True" result="Success" success="True" time="0.143" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="DishSelectionTest" executed="True" result="Success" success="True" time="0.141" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="DishServiceTest" executed="True" result="Success" success="True" time="0.062" asserts="0">
+            <results>
+              <test-suite type="ParameterizedTest" name="GetDish" executed="True" result="Success" success="True" time="0.048" asserts="0">
+                <results>
+                  <test-case name="DishSelectionTest.DishServiceTest.GetDish(Night,Entree)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="DishSelectionTest.DishServiceTest.GetDish(Morning,Side)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="DishSelectionTest.DishServiceTest.GetDish(Morning,Drink)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="DishSelectionTest.DishServiceTest.GetDish(Morning,Dessert)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="DishSelectionTest.DishServiceTest.GetDish(Morning,Entree)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="DishSelectionTest.DishServiceTest.GetDish(Night,Side)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="DishSelectionTest.DishServiceTest.GetDish(Night,Drink)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="DishSelectionTest.DishServiceTest.GetDish(Night,Dessert)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-case name="DishSelectionTest.DishServiceTest.GetDish" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="DisplayServiceTest" executed="True" result="Success" success="True" time="0.062" asserts="0">
+            <results>
+              <test-suite type="ParameterizedTest" name="GetDisplayString" executed="True" result="Success" success="True" time="0.060" asserts="0">
+                <results>
+                  <test-case name="DishSelectionTest.DisplayServiceTest.GetDisplayString(&quot;xxx, 1, 1, 2, 3, 5&quot;)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="DishSelectionTest.DisplayServiceTest.GetDisplayString(&quot;morning, 1, 2, 3&quot;)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="DishSelectionTest.DisplayServiceTest.GetDisplayString(&quot;morning, 2, 1, 3&quot;)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="DishSelectionTest.DisplayServiceTest.GetDisplayString(&quot;morning, 1, 2, 3, 4&quot;)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="DishSelectionTest.DisplayServiceTest.GetDisplayString(&quot;morning, 1, 2, 3, 3, 3&quot;)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="DishSelectionTest.DisplayServiceTest.GetDisplayString(&quot;night, 1, 2, 3, 4&quot;)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="DishSelectionTest.DisplayServiceTest.GetDisplayString(&quot;night, 1, 2, 2, 4&quot;)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="DishSelectionTest.DisplayServiceTest.GetDisplayString(&quot;night, 1, 2, 3, 5&quot;)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="DishSelectionTest.DisplayServiceTest.GetDisplayString(&quot;night, 1, 1, 2, 3, 5&quot;)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="DishSelectionTest.DisplayServiceTest.GetDisplayString(&quot;&quot;)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

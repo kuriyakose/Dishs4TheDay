@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\User\documents\visual studio 2010\Projects\Dishs4TheDay\DishSelectionTest\DishSelectionTest.csproj" total="1" errors="0" failures="1" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2014-07-21" time="14:21:34">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.4247" os-version="Microsoft Windows NT 6.0.6002 Service Pack 2" platform="Win32NT" cwd="C:\Users\User\documents\visual studio 2010\Projects\Dishs4TheDay\DishSelectionTest" machine-name="USER-PC" user="User" user-domain="USER-PC" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Project" name="C:\Users\User\documents\visual studio 2010\Projects\Dishs4TheDay\DishSelectionTest\DishSelectionTest.csproj" executed="True" result="Failure" success="False" time="0.009" asserts="0">
+    <results>
+      <test-suite type="Assembly" name="C:\Users\User\documents\visual studio 2010\Projects\Dishs4TheDay\DishSelectionTest\bin\Debug\DishSelectionTest.dll" executed="True" result="Failure" success="False" time="0.008" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="DishSelectionTest" executed="True" result="Failure" success="False" time="0.007" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="DisplayServiceTest" executed="True" result="Failure" success="False" time="0.005" asserts="0">
+                <results>
+                  <test-suite type="ParameterizedTest" name="GetDisplayString" executed="True" result="Failure" success="False" time="0.004" asserts="0">
+                    <results>
+                      <test-case name="DishSelectionTest.DisplayServiceTest.GetDisplayString(&quot;morning, 1, 2, 3, 3, 3&quot;)" executed="True" result="Failure" success="False" time="0.002" asserts="1">
+                        <failure>
+                          <message><![CDATA[  Expected string length 23 but was 31. Strings differ at index 0.
+  Expected: "eggs, toast, coffee(x3)"
+  But was:  "Output: eggs, toast, coffee(x3)"
+  -----------^
+]]></message>
+                          <stack-trace><![CDATA[]]></stack-trace>
+                        </failure>
+                      </test-case>
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

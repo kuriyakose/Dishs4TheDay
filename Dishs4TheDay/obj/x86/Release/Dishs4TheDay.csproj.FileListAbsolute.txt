@@ -1,0 +1,14 @@
+C:\Users\User\documents\visual studio 2010\Projects\Dishs4TheDay\Dishs4TheDay\bin\Release\Dishs4TheDay.exe
+C:\Users\User\documents\visual studio 2010\Projects\Dishs4TheDay\Dishs4TheDay\bin\Release\Dishs4TheDay.pdb
+C:\Users\User\documents\visual studio 2010\Projects\Dishs4TheDay\Dishs4TheDay\bin\Release\DishSelection.dll
+C:\Users\User\documents\visual studio 2010\Projects\Dishs4TheDay\Dishs4TheDay\bin\Release\DishSelection.pdb
+C:\Users\User\documents\visual studio 2010\Projects\Dishs4TheDay\Dishs4TheDay\obj\x86\Release\Dishs4TheDay.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2010\Projects\Dishs4TheDay\Dishs4TheDay\obj\x86\Release\Dishs4TheDay.exe
+C:\Users\User\documents\visual studio 2010\Projects\Dishs4TheDay\Dishs4TheDay\obj\x86\Release\Dishs4TheDay.pdb
+C:\Training\Dishs4TheDay\Dishs4TheDay\obj\x86\Release\Dishs4TheDay.exe
+C:\Training\Dishs4TheDay\Dishs4TheDay\obj\x86\Release\Dishs4TheDay.pdb
+C:\Training\Dishs4TheDay\Dishs4TheDay\bin\Release\Dishs4TheDay.exe
+C:\Training\Dishs4TheDay\Dishs4TheDay\bin\Release\Dishs4TheDay.pdb
+C:\Training\Dishs4TheDay\Dishs4TheDay\bin\Release\DishSelection.dll
+C:\Training\Dishs4TheDay\Dishs4TheDay\bin\Release\DishSelection.pdb
+C:\Training\Dishs4TheDay\Dishs4TheDay\obj\x86\Release\Dishs4TheDay.csprojResolveAssemblyReference.cache
