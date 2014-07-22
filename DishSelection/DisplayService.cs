@@ -72,6 +72,7 @@ namespace DishSelection
                     displayString.Append("Invalid Dish Type");
                     return displayString.ToString();
                 }
+
                 var dish = dishService.GetDish(timeOfDay, dishType);
                 var displayService = new DisplayService();
                 displayString.Append(dish.dishName.ToLower());
