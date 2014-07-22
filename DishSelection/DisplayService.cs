@@ -31,7 +31,7 @@ namespace DishSelection
             string[] inputArray = inputString.Split(new string[] { "," }, StringSplitOptions.RemoveEmptyEntries);
             StringBuilder displayString = new StringBuilder();
             int count = inputArray.Count();
-            if (count <= 0)
+            if (count < 2)
             {
                 displayString.Append("Invalid Input - You must enter a comma delimited list of dish types with at least one selection");
                 return displayString.ToString();

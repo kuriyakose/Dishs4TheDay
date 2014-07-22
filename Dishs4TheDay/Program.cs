@@ -10,10 +10,17 @@ namespace Dishs4TheDay
     {
         static void Main(string[] args)
         {
-            Console.Write("Input: ");
-            var displayService = new DisplayService();
-            Console.WriteLine(displayService.GetDisplayString(Console.ReadLine()));
-            Console.ReadKey();
+            try
+            {
+                Console.Write("Input: ");
+                var displayService = new DisplayService();
+                Console.WriteLine(displayService.GetDisplayString(Console.ReadLine()));
+                Console.ReadKey();
+            }
+            catch (Exception ex)
+            {
+                Console.Write(ex.Message);
+            }
         }
     }
 }
