@@ -6,4 +6,3 @@ C:\Training\Dishs4TheDay\DishSelection\bin\Release\DishSelection.dll
 C:\Training\Dishs4TheDay\DishSelection\bin\Release\DishSelection.pdb
 C:\Training\Dishs4TheDay\DishSelection\obj\Release\DishSelection.dll
 C:\Training\Dishs4TheDay\DishSelection\obj\Release\DishSelection.pdb
-C:\Training\Dishs4TheDay\DishSelection\obj\Release\DishSelection.csprojResolveAssemblyReference.cache

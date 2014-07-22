@@ -58,14 +58,28 @@ namespace DishSelection
 
             for (var i = 0; i < count; ++i)
             {
-                var dish = dishService.GetDish(timeOfDay, (DishConstant.DishType)int.Parse(inputArray[i]));
+                DishConstant.DishType dishType;
+                if (Enum.TryParse<DishConstant.DishType>(inputArray[i], out dishType))
+                {
+                    if (!Enum.IsDefined(typeof(DishConstant.DishType), dishType))
+                    {
+                        displayString.Append("Invalid Dish Type");
+                        return displayString.ToString();
+                    }
+                }
+                else
+                {
+                    displayString.Append("Invalid Dish Type");
+                    return displayString.ToString();
+                }
+                var dish = dishService.GetDish(timeOfDay, dishType);
                 var displayService = new DisplayService();
                 displayString.Append(dish.dishName.ToLower());
                 var sel = inputArrayList.Where(x => x == inputArray[i]);
                 if (sel.Count() > 1)
                 {
-                    if (timeOfDay == DishConstant.TimeOfDay.Morning && DishConstant.DishType.Drink == (DishConstant.DishType)int.Parse(inputArray[i])
-                        || (timeOfDay == DishConstant.TimeOfDay.Night && DishConstant.DishType.Side == (DishConstant.DishType)int.Parse(inputArray[i]))
+                    if ((timeOfDay == DishConstant.TimeOfDay.Morning && DishConstant.DishType.Drink == dishType)
+                        || (timeOfDay == DishConstant.TimeOfDay.Night && DishConstant.DishType.Side == dishType)
                         )
                     {
                         displayString.Append(string.Format("(x{0})", sel.Count()));
