@@ -63,7 +63,7 @@ namespace DishSelection
                 {
                     if (!Enum.IsDefined(typeof(DishConstant.DishType), dishType))
                     {
-                        displayString.Append("Invalid Dish Type");
+                        displayString.Append("error");
                         return displayString.ToString();
                     }
                 }
